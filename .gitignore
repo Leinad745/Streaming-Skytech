@@ -1,0 +1,3 @@
+skytech-streaming/src/main/resources/application-dev.properties
+skytech-streaming/src/main/resources/application-main.properties
+skytech-streaming/src/main/resources/application-test.properties
