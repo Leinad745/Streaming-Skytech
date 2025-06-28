@@ -1,4 +1,4 @@
-name: SkyTech - Juegos Deployment
+name: SkyTech - streaming Deployment
 on:
   push:
     branches:
